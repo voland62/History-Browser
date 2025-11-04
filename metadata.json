@@ -1,0 +1,5 @@
+{
+  "name": "Interactive History Timeline",
+  "description": "An interactive timeline application where users can explore, create, and customize historical timelines. Features include panning, zooming, adding custom events with images, and managing multiple history tracks.",
+  "requestFramePermissions": []
+}
